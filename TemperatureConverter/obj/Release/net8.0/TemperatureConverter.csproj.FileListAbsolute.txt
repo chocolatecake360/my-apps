@@ -1,0 +1,14 @@
+D:\SELiM\Klasorlerim\vscode\apps\TemperatureConverter\bin\Release\net8.0\TemperatureConverter.exe
+D:\SELiM\Klasorlerim\vscode\apps\TemperatureConverter\bin\Release\net8.0\TemperatureConverter.deps.json
+D:\SELiM\Klasorlerim\vscode\apps\TemperatureConverter\bin\Release\net8.0\TemperatureConverter.runtimeconfig.json
+D:\SELiM\Klasorlerim\vscode\apps\TemperatureConverter\bin\Release\net8.0\TemperatureConverter.dll
+D:\SELiM\Klasorlerim\vscode\apps\TemperatureConverter\bin\Release\net8.0\TemperatureConverter.pdb
+D:\SELiM\Klasorlerim\vscode\apps\TemperatureConverter\obj\Release\net8.0\TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SELiM\Klasorlerim\vscode\apps\TemperatureConverter\obj\Release\net8.0\TemperatureConverter.AssemblyInfoInputs.cache
+D:\SELiM\Klasorlerim\vscode\apps\TemperatureConverter\obj\Release\net8.0\TemperatureConverter.AssemblyInfo.cs
+D:\SELiM\Klasorlerim\vscode\apps\TemperatureConverter\obj\Release\net8.0\TemperatureConverter.csproj.CoreCompileInputs.cache
+D:\SELiM\Klasorlerim\vscode\apps\TemperatureConverter\obj\Release\net8.0\TemperatureConverter.dll
+D:\SELiM\Klasorlerim\vscode\apps\TemperatureConverter\obj\Release\net8.0\refint\TemperatureConverter.dll
+D:\SELiM\Klasorlerim\vscode\apps\TemperatureConverter\obj\Release\net8.0\TemperatureConverter.pdb
+D:\SELiM\Klasorlerim\vscode\apps\TemperatureConverter\obj\Release\net8.0\TemperatureConverter.genruntimeconfig.cache
+D:\SELiM\Klasorlerim\vscode\apps\TemperatureConverter\obj\Release\net8.0\ref\TemperatureConverter.dll
