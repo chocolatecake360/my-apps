@@ -1,0 +1,10 @@
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoCalc\SelimikoCalc\bin\Debug\SelimikoCalc.exe.config
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoCalc\SelimikoCalc\bin\Debug\SelimikoCalc.exe
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoCalc\SelimikoCalc\bin\Debug\SelimikoCalc.pdb
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoCalc\SelimikoCalc\obj\Debug\SelimikoCalc.csproj.AssemblyReference.cache
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoCalc\SelimikoCalc\obj\Debug\SelimikoCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoCalc\SelimikoCalc\obj\Debug\SelimikoCalc.Properties.Resources.resources
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoCalc\SelimikoCalc\obj\Debug\SelimikoCalc.csproj.GenerateResource.cache
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoCalc\SelimikoCalc\obj\Debug\SelimikoCalc.csproj.CoreCompileInputs.cache
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoCalc\SelimikoCalc\obj\Debug\SelimikoCalc.exe
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoCalc\SelimikoCalc\obj\Debug\SelimikoCalc.pdb
