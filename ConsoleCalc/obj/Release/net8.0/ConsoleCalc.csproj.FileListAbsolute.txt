@@ -1,0 +1,14 @@
+D:\SELiM\Klasorlerim\vscode\apps\ConsoleCalc\bin\Release\net8.0\ConsoleCalc.exe
+D:\SELiM\Klasorlerim\vscode\apps\ConsoleCalc\bin\Release\net8.0\ConsoleCalc.deps.json
+D:\SELiM\Klasorlerim\vscode\apps\ConsoleCalc\bin\Release\net8.0\ConsoleCalc.runtimeconfig.json
+D:\SELiM\Klasorlerim\vscode\apps\ConsoleCalc\bin\Release\net8.0\ConsoleCalc.dll
+D:\SELiM\Klasorlerim\vscode\apps\ConsoleCalc\bin\Release\net8.0\ConsoleCalc.pdb
+D:\SELiM\Klasorlerim\vscode\apps\ConsoleCalc\obj\Release\net8.0\ConsoleCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\SELiM\Klasorlerim\vscode\apps\ConsoleCalc\obj\Release\net8.0\ConsoleCalc.AssemblyInfoInputs.cache
+D:\SELiM\Klasorlerim\vscode\apps\ConsoleCalc\obj\Release\net8.0\ConsoleCalc.AssemblyInfo.cs
+D:\SELiM\Klasorlerim\vscode\apps\ConsoleCalc\obj\Release\net8.0\ConsoleCalc.csproj.CoreCompileInputs.cache
+D:\SELiM\Klasorlerim\vscode\apps\ConsoleCalc\obj\Release\net8.0\ConsoleCalc.dll
+D:\SELiM\Klasorlerim\vscode\apps\ConsoleCalc\obj\Release\net8.0\refint\ConsoleCalc.dll
+D:\SELiM\Klasorlerim\vscode\apps\ConsoleCalc\obj\Release\net8.0\ConsoleCalc.pdb
+D:\SELiM\Klasorlerim\vscode\apps\ConsoleCalc\obj\Release\net8.0\ConsoleCalc.genruntimeconfig.cache
+D:\SELiM\Klasorlerim\vscode\apps\ConsoleCalc\obj\Release\net8.0\ref\ConsoleCalc.dll
